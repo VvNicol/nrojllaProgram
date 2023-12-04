@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\bin\Debug\net6.0\nrojllaExam.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\bin\Debug\net6.0\nrojllaExam.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\bin\Debug\net6.0\nrojllaExam.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\bin\Debug\net6.0\nrojllaExam.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\bin\Debug\net6.0\nrojllaExam.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\refint\nrojllaExam.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\nrojllaExam.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos mios\nrojllaExam\nrojllaExam\obj\Debug\net6.0\ref\nrojllaExam.dll
