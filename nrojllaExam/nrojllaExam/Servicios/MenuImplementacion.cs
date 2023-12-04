@@ -16,7 +16,7 @@ namespace nrojllaExam.Servicios
             int Elegir;
 
             Console.WriteLine("....................");
-            Console.WriteLine("Menu Stock de vajillas");
+            Console.WriteLine("Menu Stock de Tenedores");
             Console.WriteLine("0.Cerrar menu");
             Console.WriteLine("1.Dar alta elemento");
             Console.WriteLine("2.Eliminar elemento");

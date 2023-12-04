@@ -46,12 +46,10 @@ namespace nrojllaExam.Controlador
                         break;
                     case 2:
                         ti.BorrarNumeroStockTenedores(tenedores);
+                        Console.WriteLine("Se ha eliminado");
+                        break;
 
-                        foreach (TenedoresDto tenedoresDto in tenedores)
-                        {
-                            Console.WriteLine(tenedoresDto.ToString());
-                        }
-
+                    default: Console.WriteLine("La opcion no existe");
                         break;
                 }
 
